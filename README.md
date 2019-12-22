@@ -7,3 +7,4 @@
 ## Scripts
 
 - Start the application for development: `npm start`
+# thingful-client
